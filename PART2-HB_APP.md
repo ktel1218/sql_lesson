@@ -87,3 +87,5 @@ The next step is to make the program do more. We need to:
 * Show all the grades for a student
 
 All these things you should try on your own. Try to implement as many of these as you can. You will probably find the sqlite3 module documentation helpful: http://docs.python.org/library/sqlite3.html
+
+And then it's time for [part 3](https://github.com/hackbrightacademy/sql_lesson/blob/master/PART3-WEB.md)!
